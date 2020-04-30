@@ -310,31 +310,3 @@ event you have to send a register key to the bot,after that he will recall all r
 
 ## Discord (LumiusCux#2649)
 
-## Prices
-Event| Price |
-| ------ | ------ |
-Trivia |2$|
-Choose the correct answer|2$| 
-Viceversa|2$|  
-Convert the word|2$|  
-Reverse the word|2$|   
-Re-Arrange the letters|2$|  
-Question And Answer events Packages|6$ - Discount/Offer|  
-Lucky PM|2$| 
-Lucky Global|2$| 
-Lucky Staller|2$| 
-Lucky Party Number|3$| 
-Lucky Critical|5$| 
-Lucky events Packages|8$ - Discount/Offer|  
-Lottery silk,gold,coins|2$|  
-Lottery events Packages|3$ - Discount/Offer|  
-H&S|3$|  
-S&D|3$|  
-Stall|3$|  
-Search events Packages|6$ - Discount/Offer|  
-Alchemy events Packages|3$|  
-GM Killer events Packages|3$|  
-Race events Packages|5$|  
-Random Action Packages|4$|  
-Uniques Packages|3$|  
-Madness Packages|5$|  
