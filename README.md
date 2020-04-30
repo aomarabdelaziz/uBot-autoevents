@@ -328,9 +328,9 @@ Lucky Critical|5$|
 Lucky events Packages|8$ - Discount/Offer|  
 Lottery silk,gold,coins|2$|  
 Lottery events Packages|3$ - Discount/Offer|  
-H&S|3$ - Discount/Offer|  
-S&D|3$ - Discount/Offer|  
-Stall|3$ - Discount/Offer|  
+H&S|3$|  
+S&D|3$|  
+Stall|3$|  
 Search events Packages|6$ - Discount/Offer|  
 Alchemy events Packages|3$|  
 GM Killer events Packages|3$|  
