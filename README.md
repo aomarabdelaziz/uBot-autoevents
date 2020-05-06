@@ -52,7 +52,7 @@ No.| Eventname | Type | Preview
 20| Solo Survival | PVP Events  | |
 21| Fighter Arena | PVP Events  | |
 22| General PVP  | PVP Events  | |
-23| Str & Int  (Next Ver)| PVP Events  | |
+23| Str & Int | PVP Events  | |
 
 
 
