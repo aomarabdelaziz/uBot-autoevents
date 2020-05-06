@@ -47,12 +47,12 @@ No.| Eventname | Type | Preview
 15 | Hide & Seek | Search Events  | |
 16 | Search & Destroy | Search Events  | |
 17 | Stall | Search Events  | |
-18 | LMS (Next Ver) | PVP Events  | |
-19| Solo Survival (Next Ver) | PVP Events  | |
-20| Union Survival (Next Ver) | PVP Events  | |
-21| Other Survival (Next Ver) | PVP Events  | |
+18 | LMS | PVP Events  | |
+19| Solo Survival | PVP Events  | |
+20| Fighter Arena | PVP Events  | |
+21| General PVP  | PVP Events  | |
 22| Str & Int  (Next Ver)| PVP Events  | |
-23| God Mode (Next Ver) | PVP Events  | |
+
 
 
 
