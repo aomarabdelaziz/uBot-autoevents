@@ -39,19 +39,20 @@ No.| Eventname | Type | Preview
 7 | Lucky Private Chat | Lucky Events  | |
 8 | Lucky Global | Lucky Events  | |
 9 | Lucky Party Number |  Lucky Events  | |
-10 | Lucky Staller |  Lucky Events  | |
-11 | Lucky Critical |  Lucky Events  | |
-12 | Lottery Gold | Lottery Events | |
-13 | Lottery Silk | Lottery Events  | |
-14 | Lottery Coins | Lottery Events  | |
-15 | Hide & Seek | Search Events  | |
-16 | Search & Destroy | Search Events  | |
-17 | Stall | Search Events  | |
-18 | LMS | PVP Events  | |
-19| Solo Survival | PVP Events  | |
-20| Fighter Arena | PVP Events  | |
-21| General PVP  | PVP Events  | |
-22| Str & Int  (Next Ver)| PVP Events  | |
+10 | Lucky Party Member |  Lucky Events  | |
+11 | Lucky Staller |  Lucky Events  | |
+12 | Lucky Critical |  Lucky Events  | |
+13 | Lottery Gold | Lottery Events | |
+14 | Lottery Silk | Lottery Events  | |
+15 | Lottery Coins | Lottery Events  | |
+16 | Hide & Seek | Search Events  | |
+17 | Search & Destroy | Search Events  | |
+18 | Stall | Search Events  | |
+19 | LMS | PVP Events  | |
+20| Solo Survival | PVP Events  | |
+21| Fighter Arena | PVP Events  | |
+22| General PVP  | PVP Events  | |
+23| Str & Int  (Next Ver)| PVP Events  | |
 
 
 
